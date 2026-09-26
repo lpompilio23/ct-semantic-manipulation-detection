@@ -1,0 +1,13 @@
+
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+.venv/
+*.pyc
+preprocessed_cubes/
+reconstructed_hf_patches/
+embeddings_spatial/
+embeddings_frequency/
+detector_runs/
