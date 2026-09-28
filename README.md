@@ -1,6 +1,6 @@
 # Robust Unseen-Generator Detection of Semantic Manipulations in CT Imaging
 
-[Ludovica Pompilio](https://scholar.google.com/citations?user=fF5lJeUAAAAJ&hl=it&oi=ao)<sup>1</sup>, [Francesco Di Feola](https://scholar.google.com/citations?user=nzm0qagAAAAJ&hl=it&oi=ao)<sup>2</sup>, [Matteo Tortora](https://scholar.google.com/citations?user=3WpZse0AAAAJ&hl=it&oi=ao)<sup>3</sup>, [Valerio Guarrasi](https://scholar.google.com/citations?user=840UXEMAAAAJ&hl=it&oi=ao)<sup>4</sup>, [Paolo Soda](https://scholar.google.com/citations?user=E7rcYCQAAAAJ&hl=it&oi=ao)<sup>1,2</sup>
+[Ludovica Pompilio](https://scholar.google.com/citations?user=fF5lJeUAAAAJ&hl=it&oi=ao)<sup>1</sup>, [Francesco Di Feola](https://scholar.google.com/citations?user=nzm0qagAAAAJ&hl=it&oi=ao)<sup>2</sup>, [Matteo Tortora](https://scholar.google.com/citations?user=3WpZse0AAAAJ&hl=it&oi=ao)<sup>3</sup>, [Paolo Soda](https://scholar.google.com/citations?user=E7rcYCQAAAAJ&hl=it&oi=ao)<sup>1,2</sup>, [Valerio Guarrasi](https://scholar.google.com/citations?user=840UXEMAAAAJ&hl=it&oi=ao)<sup>4</sup>
 
 <sup>1</sup> Research Unit of Artificial Intelligence and Computer Systems, Campus Bio-Medico di Roma, Rome, Italy
 
